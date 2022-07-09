@@ -26,7 +26,7 @@ h2 {
 
 h3 {
     font-family: 'Raleway', sans-serif;
-    color: #0028FF;
+    color: #1363DF;
 }
 
 h4 {
@@ -164,11 +164,15 @@ a:hover {
 /* bottom footerr */
 .bottom-container {
     padding: 50px 0 20px;
-    background-color: cornflowerblue;
+    background-color: #638fed;
 }
 
 .copyright {
     color: #EAF6F6;
     font-size: 0.85rem;
 
+}
+
+.logos {
+    height: 40px;
 }
