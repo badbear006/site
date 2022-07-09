@@ -112,7 +112,48 @@ blockquote {
     margin-left: 30px;
 }
 
+/* projects section  */
 
+.boxs {
+   padding:40px;
+   
+
+}
+
+
+
+.rbox {
+    background-color: lightskyblue;
+    height: 160px;
+    width: 150px;
+    margin-right: 40px;
+    display: inline-block;
+    text-align: auto;
+    border-radius: 30%;
+    
+    
+}
+.gbox {
+    background-color: lightskyblue;
+    height: 160px;
+    width: 150px;
+     margin-right: 30px;
+    display: inline-block;
+    border-radius: 30%;
+
+}
+.bbox {
+    background-color: lightskyblue;
+    height: 160px;
+    width: 150px;
+    display: inline-block;
+    text-align: auto;
+    border-radius: 30%;
+}
+
+.a-projects {
+    text-decoration: underline;
+}
 
 /* bottom conatact  */
 
@@ -157,7 +198,7 @@ a {
 }
 
 a:hover {
-    color: #EAF6F6;
+    color: #ffffff;
 
 }
 
